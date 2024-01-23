@@ -10,7 +10,7 @@ i like computers n stuff
 Java, JavaScript, C#, VB & VBS
 
 ### Programming Languages I plan on learning:
-C++, Python, Ruby, Rust
+C++, Python, Ruby, Rust, Assembly, PHP
 
 ### Contact Me
 
