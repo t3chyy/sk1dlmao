@@ -10,7 +10,7 @@ Python, Ruby, Rust, Assembly
 
 ### Contact Me
 
-- **Twitter/Discord:** https://twitter.com/t3chyyofficial
+- **Twitter/X:** https://twitter.com/t3chyyofficial
 - **Discord:** t3chyy
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=t3chyy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
